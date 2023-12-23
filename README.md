@@ -1,4 +1,4 @@
-# DATE : 
+# DATE : 22/12/2023
 
 # EXP NO 6 : Series Queues with infinite capacity - Open Jackson Network
 
